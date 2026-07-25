@@ -1,0 +1,21 @@
+11 times + only my device is connected to router ("bufferbloat grade" "low latency gaming: under ideal conditions" "low latency gaming: currently, due to bufferbloat")
+Reset Internet Settings.cmd as admin + TCP Optimizer set to Windows Default (connection speed still set to 100+ mbps)
+a+ / /, a+ / /, a+ / /, a+ / /, a / /, a / /, a / /, a / /, a+ / /, a+ / /, a / /
+Drena
+a / /, a+ / /, a / /, a+ / /, a+ / /, a+ / /, a+ / /, a / /, a / /, a+ / /, a / /
+Drena + TTL + TcpAckFrequency + TCP Window Auto-Tuning (value at 64 + disabled + disabled)
+a / /, a+ / /, a+ / /, a+ / /, a+ / /, a / /, a / /, a+ / /, a / /, a / /, a / /
+Drena + TTL (value at 64)
+a+ / /, a+ / /, a+ / /, a+ / /, a / /, a+ / /, a+ / /, a+ / /, a+ / /, a / /, a / !
+Drena + TcpAckFrequency (disabled)
+a+ / /, a+ / /, a+ / /, a+ / /, a+ / /, a+ / /, a+ / /, a+ / /, a+ / /, a+ / /, a+ / /
+a+ / /, a+ / /, a+ / /
+Drena + TCP Window Auto-Tuning (disabled)
+a+ / /, a+ / /, a+ / /, a+ / /, a / /, a+ / /, a+ / /, a / /, a+ / /, a+ / /, a / /
+Drena + TTL + TcpAckFrequency (value at 64 + disabled)
+a / /, a+ / /, a+ / /, a+ / /, a / !, a+ / /, a / !, a+ / /, a+ / /, a+ / /, a+ / /
+Drena + TcpAckFrequency + TCP Window Auto-Tuning (disabled + disabled)
+a+ / /, a+ / /, a+ / /, a+ / /, a+ / /, a+ / /, a+ / /, a+ / /, a+ / /, a / /, a / !
+Drena + TTL + TCP Window Auto-Tuning (value at 64 + disabled)
+a+ / /, a+ / /, a+ / /, a+ / /, a+ / /, a+ / /, a / /, a+ / /, a+ / /, a+ / /, a+ / /
+a+ / /, a+ / /, a / /
