@@ -1,2 +1,2 @@
-<img width="1920" height="1080" alt="MapMuzak(2)" src="https://github.com/user-attachments/assets/f2a5f9b5-24f2-49a8-a1f7-f69e773cf3e8" />
-
+in version 1.26.0.2, there's a chance where sometimes when you open Minecraft, it changes your custom keybinds to default keybinds
+[python file to mitigate that issue](LINECHECKER.py)
