@@ -8,3 +8,6 @@ C:\Users\(name)\AppData\Roaming\Minecraft Bedrock\Users\Shared\games\com.mojang\
 (pack)/render_controllers\
 (pack)/animations\
 (pack)/animation_controllers
+
+https://wiki.bedrock.dev/json-ui/json-ui-documentation
+[1.26.0.2 all .jsons in one file](JSON.txt)
