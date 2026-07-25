@@ -1,6 +1,6 @@
-video tutorial on how to decrypt packs
+video tutorial on how to decrypt server packs https://drive.google.com/file/d/1Jh1YVJVh56AEjqgm-HWScSpiA_zZWVTu/view?usp=drive_link
 
-show folder location
+C:\Users\(name)\AppData\Local\Temp\Minecraft Bedrock\minecraftpe\packcache\resource
 
 prove that resource packs is above server packs (stone texture)
 
