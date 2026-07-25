@@ -1,3 +1,5 @@
+[info](info.md)
+
 [F1 key](F1%20key/README.md)
 
 [disable item name](disable%20item%20name/README.md)
