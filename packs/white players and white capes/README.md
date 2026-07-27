@@ -1,3 +1,4 @@
+credit https://mcpedl.com/player-outline/
 download https://drive.google.com/file/d/1vR01rE5qXU8gk254ZBY4YG5QlJGC-RKp/view?usp=drive_link
 
 <img width="800" height="450" alt="4 white players and white capes" src="https://github.com/user-attachments/assets/f258c4e9-9757-4c9d-9e16-a90c0328ba40" />
