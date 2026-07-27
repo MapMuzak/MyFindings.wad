@@ -1,4 +1,4 @@
-![MyHouse.wad](https://github.com/MapMuzak/MyFindings.wad/blob/main/MyHouse.png)
+![MyHouse.wad](https://github.com/MapMuzak/MyFindings.wad/blob/main/House.png)
 
 [packs](packs/README.md)
 
