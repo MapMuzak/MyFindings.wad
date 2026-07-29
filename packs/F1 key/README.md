@@ -1,4 +1,5 @@
-download https://drive.google.com/file/d/1V0gLP3GYQMNiVrg0Nh_pbX5t7oHjnvoS/view?usp=drive_link
+download https://drive.google.com/file/d/1V0gLP3GYQMNiVrg0Nh_pbX5t7oHjnvoS/view?usp=drive_link \
+docs https://docs.google.com/document/d/1TmtiAH-ps4__G2fi2FshWAsXvx2XtMHdq3ivXcAsez8/edit?tab=t.cd2ehi1t1qjp
 
 <img width="1920" height="1080" alt="1 f1" src="https://github.com/user-attachments/assets/53a015e8-f835-4002-b16e-ca74d7b97d3f" />
 
