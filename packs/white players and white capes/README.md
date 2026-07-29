@@ -17,3 +17,5 @@ with [no fire hud](no%20fire%20hud/README.md)
 <img width="800" height="450" alt="4 white players and white capes (3)" src="https://github.com/user-attachments/assets/f51c95f4-4a70-4b64-891f-dac383545015" />
 
 <img width="800" height="450" alt="4 white players and white capes (4)" src="https://github.com/user-attachments/assets/0cdeafe5-b043-42a6-b524-7a46e6e7a4a6" />
+
+<img width="1300" height="819" alt="rgb" src="https://github.com/user-attachments/assets/02926042-7b14-42dc-ae0d-41ec62fe52e8" />
