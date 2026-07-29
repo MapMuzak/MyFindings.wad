@@ -1,4 +1,6 @@
-credit https://mcpedl.com/player-outline/ \
+credit\
+https://mcpedl.com/player-outline/ \
+https://mcpedl.com/hurt-color-plus/ \
 download https://drive.google.com/file/d/1vR01rE5qXU8gk254ZBY4YG5QlJGC-RKp/view?usp=drive_link \
 (pack)/entity/player.entity.json\
 (pack)/materials/entity.material\
