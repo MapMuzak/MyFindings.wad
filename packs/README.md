@@ -1,4 +1,4 @@
-## [info](info.md)
+[info](info.md)
 
 [F1 key](F1%20key/README.md)
 
