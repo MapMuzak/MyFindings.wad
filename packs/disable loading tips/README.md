@@ -1,4 +1,6 @@
-download https://drive.google.com/file/d/1OiTetst4FUISy1OPTuwhP1DV3I6SBvTp/view?usp=drive_link
+download https://drive.google.com/file/d/1OiTetst4FUISy1OPTuwhP1DV3I6SBvTp/view?usp=drive_link \
+docs https://docs.google.com/document/d/1TmtiAH-ps4__G2fi2FshWAsXvx2XtMHdq3ivXcAsez8/edit?tab=t.7md2lwrrcm52 \
+(pack)/ui/progress_screen.json
 
 <img width="800" height="450" alt="8 disable loading tips" src="https://github.com/user-attachments/assets/1bcefbe8-92d6-4a21-9e6a-4447f2f0a854" />
 
