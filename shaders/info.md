@@ -6,6 +6,8 @@ video tutorial on how to build shaders https://drive.google.com/file/d/1OJ6DQsqp
   credit https://discord.com/channels/844591537430069279/1271123311300055051/1471984616964358174
 </p>
 
+`Discord CDN files linked outside of Discord expire, if they haven't been deleted you can send the link in any chat to revive it`
+
 C:\Users\(name)\wad\launcher-used\Minecraft-1.26.0.2\data\renderer\materials
 
 what happens if you delete these files
