@@ -1,8 +1,7 @@
 video tutorial on how to build shaders https://drive.google.com/file/d/1OJ6DQsqpc6q6Oh0YTC0Xr6ygSpyzaop0/view?usp=drive_link
 
-download https://cdn.discordapp.com/attachments/1271123311300055051/1471984616998043751/material-updater.exe?ex=6a65d640&is=6a6484c0&hm=00fe0427d5075686152589fa35e0ebff127f624847838422e64e81b941ec3fee&
 <img width="627" height="189" alt="mrwang" src="https://github.com/user-attachments/assets/28170d31-0b6c-4789-a89d-5996bbcee44c" />\
-credit https://discord.com/channels/844591537430069279/1271123311300055051/1471984616964358174
+download https://discord.com/channels/844591537430069279/1271123311300055051/1471984616964358174
 
 C:\Users\(name)\wad\launcher-used\Minecraft-1.26.0.2\data\renderer\materials
 
