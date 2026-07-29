@@ -12,4 +12,8 @@ https://github.com/Furzide/RenderDragonFullBright \
 https://github.com/devendrn/newb-x-mcbe
 
 https://github.com/flarialmc/dll-oss \
-https://frederoxdev.github.io/Bedrock-Modding-Wiki/
+https://frederoxdev.github.io/Bedrock-Modding-Wiki/ \
+https://deepwiki.com/flarialmc \
+https://deepwiki.com/flarialmc/dll
+
+<img width="739" height="775" alt="Screenshot 2026-06-01 195412" src="https://github.com/user-attachments/assets/5036e9f4-69cc-46e5-99a3-62ac5beea5c9" />
