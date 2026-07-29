@@ -1,4 +1,8 @@
-download https://drive.google.com/file/d/1HtvA37EsYRcW7vN9Ivipvhd8iOD1jGhA/view?usp=drive_link
+credit\
+https://www.curseforge.com/minecraft-bedrock/texture-packs/delete-particles-animation-fix-lag \
+https://mcpedl.com/better-x-ray-plus/ \
+download https://drive.google.com/file/d/1HtvA37EsYRcW7vN9Ivipvhd8iOD1jGhA/view?usp=drive_link \
+(pack)/entity/(name).entity.json
 
 <img width="1920" height="1080" alt="22 invisible entities using  json files" src="https://github.com/user-attachments/assets/c57e9394-2b05-4b42-916f-fd056dbbd2f3" />
 
