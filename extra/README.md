@@ -6,6 +6,7 @@ https://www.curseforge.com/minecraft/worlds/presentation-updated
 software\
 KeysPerSecond https://github.com/RoanH/KeysPerSecond \
 dcPrevent_1_0_0_3\
+`Discord CDN files linked outside of Discord expire, if they haven't been deleted you can send the link in any chat to revive it`
 https://cdn.discordapp.com/attachments/753424935006896200/826518141416374292/dcPrevent_1_0_0_3.rar \
 https://discord.com/channels/874571610126942208/874579499692466207/956174151759044638 \
 https://www.virustotal.com/gui/file/8ec87466941fb8449c463f0538ddca37fe7bf55b80b22a40885b2e1768a58843/community \
