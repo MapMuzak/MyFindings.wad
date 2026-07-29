@@ -1,3 +1,4 @@
+credit https://www.curseforge.com/minecraft-bedrock/texture-packs/delete-particles-animation-fix-lag \
 download https://drive.google.com/file/d/1C0UcVlOc4-naljUPv9HcJXLCYh06MsZN/view?usp=drive_link \
 (ui)/particles
 
