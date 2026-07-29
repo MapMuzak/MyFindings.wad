@@ -1,4 +1,5 @@
-download https://drive.google.com/drive/folders/1RilV9Y7WLNpXmG7hIMXc3VueuI3g6KAK?usp=drive_link
+download https://drive.google.com/drive/folders/1RilV9Y7WLNpXmG7hIMXc3VueuI3g6KAK?usp=drive_link \
+docs https://docs.google.com/document/d/1I5SUJjK6m22jJ-Yl2EDD2Vuq8uqgauPpxVD3f4_Uybk/edit?tab=t.0
 
 credit https://discord.com/channels/844591537430069279/1160590282644000819/1160826213737181255
 <video src=https://github.com/user-attachments/assets/63c08390-b1e8-4ce8-acd8-3c3e24892494>
