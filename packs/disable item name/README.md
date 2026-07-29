@@ -1,4 +1,6 @@
-download https://drive.google.com/file/d/1n9P5_-WI13o837ZrLPBnN3HvkDDLqLTs/view?usp=drive_link
+download https://drive.google.com/file/d/1n9P5_-WI13o837ZrLPBnN3HvkDDLqLTs/view?usp=drive_link \
+docs https://docs.google.com/document/d/1TmtiAH-ps4__G2fi2FshWAsXvx2XtMHdq3ivXcAsez8/edit?tab=t.0 \
+(pack)/ui/hud_screen.json
 
 <img width="800" height="450" alt="2 disable item name" src="https://github.com/user-attachments/assets/c667543a-3371-454b-9dd7-77ca2e398f36" />
 
