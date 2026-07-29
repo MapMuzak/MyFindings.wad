@@ -7,7 +7,6 @@ software\
 KeysPerSecond https://github.com/RoanH/KeysPerSecond \
 dcPrevent_1_0_0_3\
 https://discord.com/channels/874571610126942208/874579499692466207/956174151759044638 \
-https://cdn.discordapp.com/attachments/753424935006896200/826518141416374292/dcPrevent_1_0_0_3.rar?ex=6a65a440&is=6a6452c0&hm=496cf1d8624f6f3e28885056d951c15e03eb79e3dc295b6f2fca02821b92e288& \
 https://www.virustotal.com/gui/file/8ec87466941fb8449c463f0538ddca37fe7bf55b80b22a40885b2e1768a58843/community \
 https://www.virustotal.com/gui/file/0b0d3071d24b7812fa5745c9c308eacb41cb81060721c8dc60ff765865305b5d/community
 
