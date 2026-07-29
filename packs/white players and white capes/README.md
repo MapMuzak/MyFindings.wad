@@ -14,7 +14,7 @@ limitations - dont know how make all players have the same geometry shape and he
 
 <img width="800" height="450" alt="4 white players and white capes (2)" src="https://github.com/user-attachments/assets/fd46f10a-e499-47bd-b029-007b5a4c7a2d" />
 
-with [no fire hud](no%20fire%20hud/README.md)
+with [no fire hud](../no%20fire%20hud/README.md)
 
 <img width="800" height="450" alt="4 white players and white capes (3)" src="https://github.com/user-attachments/assets/f51c95f4-4a70-4b64-891f-dac383545015" />
 
