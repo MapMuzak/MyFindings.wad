@@ -1,4 +1,5 @@
-download https://drive.google.com/file/d/1C0UcVlOc4-naljUPv9HcJXLCYh06MsZN/view?usp=drive_link
+download https://drive.google.com/file/d/1C0UcVlOc4-naljUPv9HcJXLCYh06MsZN/view?usp=drive_link \
+(ui)/particles
 
 <img width="800" height="450" alt="21 disable particles" src="https://github.com/user-attachments/assets/5850aede-4b7a-4174-a8c2-7514de7ea8e5" />
 
