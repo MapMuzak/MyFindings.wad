@@ -3,6 +3,7 @@ https://mcpedl.com/player-outline/ \
 https://mcpedl.com/hurt-color-plus/ \
 https://mcpedl.com/modern-capes/ \
 download https://drive.google.com/file/d/1vR01rE5qXU8gk254ZBY4YG5QlJGC-RKp/view?usp=drive_link \
+docs https://docs.google.com/document/d/1TmtiAH-ps4__G2fi2FshWAsXvx2XtMHdq3ivXcAsez8/edit?tab=t.uzhkxrb2mj30 \
 (pack)/entity/player.entity.json\
 (pack)/materials/entity.material\
 (pack)/models/entity/Cape.json\
