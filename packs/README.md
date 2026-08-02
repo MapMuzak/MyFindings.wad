@@ -8,6 +8,8 @@
 
 [white players and white capes](white%20players%20and%20white%20capes/README.md)
 
+[xp number arrow counter](xp%20number%20arrow%20counter/README.md)
+
 [no more footsteps](no%20more%20footsteps/README.md)
 
 [no fire hud](no%20fire%20hud/README.md)
