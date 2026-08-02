@@ -9,7 +9,7 @@ download https://drive.google.com/file/d/1vR01rE5qXU8gk254ZBY4YG5QlJGC-RKp/view?
 (pack)/render_controllers/custom.cape.json\
 (pack)/render_controllers/playerchameleon.render_controllers.json
 
-limitations - dont know how make all players have the same geometry shape and height
+limitations - dont know how to make all players have the same geometry shape and height
 
 <img width="800" height="450" alt="4 white players and white capes" src="https://github.com/user-attachments/assets/f258c4e9-9757-4c9d-9e16-a90c0328ba40" />
 
