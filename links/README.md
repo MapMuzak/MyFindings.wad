@@ -1,3 +1,6 @@
+https://github.com/boredape874/mcbejsonuimasterAI \
+https://github.com/LeGend077/json-ui-examples
+
 https://learn.microsoft.com/en-us/minecraft/creator/documents/material-files?view=minecraft-bedrock-stable \
 https://minecraft.wiki/w/Bedrock_Edition_GUI,_UI,_and_Ore_UI_textures \
 https://wiki.bedrock.dev
