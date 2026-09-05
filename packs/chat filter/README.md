@@ -3,6 +3,7 @@ flarial modules\
 [less bloated hive skywars experience](hampter2.lua) \
 [mute everything except has x hearts](hampter3.lua) \
 credit\
+https://github.com/DxJar/scripts/blob/main/module/chat%20filter.lua \
 https://minecraft.wiki/w/Formatting_codes \
 https://wiki.bedrock.dev/text/fonts \
 https://github.com/boredape874/mcbejsonuimasterAI \
